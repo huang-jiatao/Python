@@ -1,3 +1,3 @@
 # Python
 cheer
-简单list
+1.简单list使用
