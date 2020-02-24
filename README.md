@@ -22,4 +22,11 @@
     2.力扣算法两数之和 twosum.py
     3.力扣算法整数反转 lico.py
     4.两数相加 lico2.py
-    5.
+    5.力扣算法3 lico3.py
+    6.回文数 lico9.py
+    7.sin,cos函数绘制 numpy+matplotlib.py
+    三、大作业
+    ==
+    1.爬虫3000证件照说明 shuoming.md
+    2.获取证件照代码 get.txt
+    3.保存数据库代码 save.txt
